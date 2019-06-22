@@ -128,635 +128,449 @@ an open-source, collaborative R&D project to bring about a digital revolution in
 
 ## SocialTech.org 
 https://www.socialtech.org.uk
-*A huge database of projects. Can be filtered for open source options. Includes the below open source projects*
+*A huge database of projects. Can be filtered for open source options. Open source projects include: *
 
-DAILWATCH
-Irish citizens engaging in direct dialogue with Ireland's parliament.
+### DAILWATCH  
+Irish citizens engaging in direct dialogue with Ireland's parliament.  
 
-Department for Transportation (USA)
-DATA INNOVATION CHALLENGE
-Encouraging data innovation through a challenge in the US
+### DATA INNOVATION CHALLENGE  
+Encouraging data innovation through a challenge in the US  
 
-DataKind in action in Kenya and Uganda
-2014
-DataKind
-DATAKIND
-Tackling the world's biggest problems through data science
+### DATAKIND  
+Tackling the world's biggest problems through data science . 
 
-DEMOCRACY CLUB
-Building digital infrastructure for a 21st century democracy in the UK
-
-Diaspora Foundation
-DIASPORA
-Anonymising social network users and giving them control of their personal data
-
-Digital Green
-2015
-DIGITAL GREEN
-Sharing knowledge through video
+### DEMOCRACY CLUB  
+Building digital infrastructure for a 21st century democracy in the UK  
 
 
-2016
-University of Nairobi School of Computing and Informatics
-DIGITAL MATATUS
-Collaboratively mapping Nairobi’s informal transit network
+### DIASPORA  
+Anonymising social network users and giving them control of their personal data  
 
 
-2016
-DISRUPT DISABILITY
-Making wheelchairs more accessible with open-source design
+### DIGITAL GREEN  
+Sharing knowledge through video  
 
-A virtual visualisation of how the DopelLab software works
-MIT Media Lab
-DOPPELLAB
-Providing an insight into the way buildings are used.
+### DIGITAL MATATUS  
+Collaboratively mapping Nairobi’s informal transit network  
 
-Book shelves full of books with colourful covers
-2013
-Digital Public Library of America
-DPLA
-One of the largest and most diverse digital library collections.
+### DISRUPT DISABILITY  
+Making wheelchairs more accessible with open-source design  
 
-A recipient of a 3D prosthetic hand at and e-NABLE workshop
-2014
-E-nabling the future
-E-NABLE
+### DOPPELLAB  
+Providing an insight into the way buildings are used.  
+
+### DPLA  
+One of the largest and most diverse digital library collections.  
+
+### E-NABLE
 Affordable 3D printed prosthetics
 
-EARTHOS
-Aspiring to be “civilization in a box”, giving individuals a high level of personal…
+### EARTH OS
+Aspiring to be “civilization in a box” 
 
-Coastal Resilience
-EL NIÑO MONITORING INITIATIVE
-Using phones and drones to monitor how El Niño changes the California coast
+### EL NIÑO MONITORING INITIATIVE
+Using phones and drones to monitor how El Niño changes the California coast  
 
-ENABLED BY DESIGN
+### ENABLED BY DESIGN
 Improving and developing independent living products and services.
 
-River bed with trees
-Digital Catapult
-ENVIRONMENTAL DATA EXCHANGE
+### ENVIRONMENTAL DATA EXCHANGE
 Innovating with environmental data
 
-EVENTBRITE
+### EVENTBRITE
 Providing an online ticketing service for event organisers to plan and promote events.
 
-Girl on phone at night alone
-Indianeye Security Pvt. Ltd
-EYEWATCH
+### EYEWATCH
 The world’s most advanced personal safety solution
 
-Graffiti wall branded with Flattr logo and slogans
-2014
-Flattr Network LTD
-FLATTR
+### FLATTR
 Pay-as-you-go micropayments for content creators
 
-FLUENCY
+### FLUENCY
 Training young British people in the skills they need to enter the digital economy.
 
-Carnegie Mellon Create Lab
-FLUXTREAM
+### FLUXTREAM
 Mining personal data from fitness apps and wearable technology
 
-FOIA MACHINE
+### FOIA MACHINE
 Accessing government documents covered by the Freedom of Information Act
 
-FOL LEVIZJA
+### FOL LEVIZJA
 Creating transparency and reducing corruption in the fledgling democratic republic of Kosovo.
 
 
-2016
-FOLLOW THE MONEY
+### FOLLOW THE MONEY
 Tracking aid money through citizen activism
 
-Crate of pumpkins
-Food Trade
-FOOD TRADE MENU
+### FOOD TRADE MENU
 Become a part of the food revolution
 
-Colombia University
-FORMHUB
+### FORMHUB
 Conducting Excel surveys on any Android device, without needing a data connection.
 
-FURENEXO
+### FURENEXO
 A device that helps deaf users detect danger
 
-A fabric Github mascot toy sat on a chair in the Github office.
-2013
-GitHub
-GITHUB
+### GITHUB
 Forking its way into open source legend.
 
-SROI Network
-GLOBAL VALUE EXCHANGE
-Providing better transparency in environmental and social projects
 
-None
-2013
-Open Source Ecology
-GLOBAL VILLAGE CONSTRUCTION SET
+### GLOBAL VALUE EXCHANGE
+Providing better transparency in environmental and social projects (SROI)
+
+### GLOBAL VILLAGE CONSTRUCTION SET
 Allowing DIY fabrication of 50 industrial machines for a sustainable civilization.
 
-GOOD GYM
+### GOOD GYM
 Getting fit and doing good, at the same time.
 
-Fuentes Abiertas
-GOTEO
+### GOTEO
 Supporting projects that generate new opportunities for the improvement of society
 
-GOVERNMENT OF ESTONIA
+### GOVERNMENT OF ESTONIA
 Making a profound commitment to government openness.
 
-Civic Impulse, LLC
-GOVTRACK
+### GOVTRACK
 Serving as a model for legislative transparency websites around the world.
 
-Peterborough Environment City Trust
-GREENIVERSITY
+### GREENIVERSITY
 A UK skills-share scheme for people to teach or learn ‘green skills’.
 
-GUARDIAN PROJECT
+### GUARDIAN PROJECT
 Developing open source mobile security software for high-risk situations
 
-Centre for Public Policy PROVIDUS
-GUDRAS GALVAS
+### GUDRAS GALVAS
 Letting Latvia's citizens communicate directly with their government ministers and lawmakers.
 
-GUOKR
+### GUOKR
 Bringing together the largest community of young scientists in China
 
-Human Rights Foundation
-HACK NORTH KOREA
+### HACK NORTH KOREA
 Bringing about new ways to engage with North Korean citizens
 
-Happin!
-HAPPIN!
+### HAPPIN!
 Geotagging disruptive events in Lebanon
 
-HELLO SUNDAY MORNING
+### HELLO SUNDAY MORNING
 Changing Australians’ alcohol consumption with a teetotal pledge and blogging.
 
-City of Helsinki Urban Facts
-HELSINKI REGION INFOSHARE
+### HELSINKI REGION INFOSHARE
 Accessing open data sources for R&D, visualisation, data-journalism and app development.
 
-HORSESMOUTH
+### HORSESMOUTH
 Providing a safe, moderated, online forum for informal one-to-one mentoring.
 
-Group of people looking at clipboards with information on.
-2015
-Humanitarian Open Street Map Team (HOT)
-HOT - WEST AFRICA EBOLA EPIDEMIC
+### HOT - WEST AFRICA EBOLA EPIDEMIC
 Rapidly delivering accurate maps to field workers
 
-Shadow of 3D printed object
-Flexiscale
-I CAN MAKE
+### I CAN MAKE
 Making and learning with 3D printing
 
-New York's Museum of Modern Art
-I WANT YOU TO WANT ME
+### I WANT YOU TO WANT ME
 Building a barometer of modern attitudes towards desire, each other, and ourselves.
 
-An iFixit kit
-2014
-IFIXIT
+### IFIXIT
 A ‘make do and mend’ movement for the age of built-in obsolescence
 
-
-INFOAMAZONIA
+### INFOAMAZONIA
 Interactive maps about environmental changes in the Amazon rainforest
 
-Tetherless World Constellation
-INTERNATIONAL OPEN GOVERNMENT DATASET SEARCH (DEMO)
+### INTERNATIONAL OPEN GOVERNMENT DATASET SEARCH (DEMO)
 Opening, translating and linking international government data-sets using the ‘semantic web’.
 
-INTERNATIONAL WATER MANAGEMENT INSTITUTE
+### INTERNATIONAL WATER MANAGEMENT INSTITUTE
 Pioneering agricultural research to alleviate poverty in developing countries.
 
-
-Superflux
-IOTA
+### IOTA
 Creating a level playing field for building and testing digital projects.
 
-
-2016
-Learning Equality
-KA LITE
+### KA LITE
 Open-source education to bridge the digital divide
 
-KDE
+### KDE
 Developing free applications with open source software
 
-Students with raised hands in the classroom
-2014
-Generation Rwanda
-KEPLER
+### KEPLER
 Bringing American BA degrees to Africa
 
-None
-2013
-KHAN ACADEMY
+### KHAN ACADEMY
 Providing a free world-class education for anyone anywhere.
 
-KoBo Toolbox
-KOBOTOOLBOX
+### KOBOTOOLBOX
 Making data collection easier in a crisis
 
-LINUX
-Running on more than 90% of today's 500 fastest super computers.
-
-Public Software Group
-LIQUIDFEEDBACK
+### LIQUIDFEEDBACK
 Promoting the use of electronic media for democratic processes.
 
-LITERACY BRIDGE
+### LITERACY BRIDGE
 Sharing knowledge on agriculture and health by using a Talking Book.
 
-Greater London Authority
-LONDON DATASTORE
+### LONDON DATASTORE
 Freeing London's data for wider use
 
-Enspiral
-LOOMIO
+### LOOMIO
 Providing an open source decision making platform
 
-Numerous envelope icons and @ signs
-2014
-MAILPILE
+### MAILPILE
 The 'holy grail of email' – user-friendly but encrypted.
 
-Two boys at the launch of Make Things Do Stuff
-Nominet Trust
-MAKE THINGS DO STUFF
+### MAKE THINGS DO STUFF
 A 21st Century ‘Why Don’t You’ for British youth
 
-Maker Faire light installation from 2013 event
-2014
-Maker Media Inc
-MAKER FAIRE
+### MAKER FAIRE
 A SXSW for the Maker Movement, the Glastonbury of DIY
 
-Map Kibera Trust
-MAPKIBERA
+### MAPKIBERA
 Creating the first free and open digital map of urban slums.
 
-Martus shown on a mobile phone
-2014
-Beneficent Technology, Inc.
-MARTUS
+### MARTUS
 Keeping sensitive information and the people who are collecting it safe
 
-MENDELEY
+### MENDELEY
 Changing the way we carry out research
 
-METABOLIC FOUNDATION
+### METABOLIC FOUNDATION
 DIY Fab Lab Workshop
 
-
-Viridian Housing
-MOVEMAKER
+### MOVEMAKER
 Making it easy for social housing tenants to swap their homes
 
-None
-2013
-Mozilla
-MOZILLA FIREFOX
-An epoch-making open source browser.
-
-Watershed
-MUSIC MEMORY BOX
+### MUSIC MEMORY BOX
 Helping dementia sufferers to access their memories through objects and music.
 
-
-2016
-MWATER
+### MWATER
 Big data improves access to clean water
 
- A close up shot of the side of the road and pavement
-2013
-MYSOCIETY
+### MYSOCIETY
 Providing simple digital tools to put power in the hands of the people.
 
 
-2016
-NIGHTSCOUT
+### NIGHTSCOUT
 Cloud sharing helps Type 1 diabetes sufferers share glucose levels
 
-Office windows lit up at night
-OPEN CORPORATES
+### OPEN CORPORATES
 Provides data from official sources about how global companies operate.
 
-None
-2013
-Open Government Partnership
-OPEN GOVERNMENT
+### OPEN GOVERNMENT
 Strengthening the hand of citizens when faced with open data.
 
-OPEN HEALTH CARE UK
+### OPEN HEALTH CARE UK
 Combining health and technology expertise to develop products for health professionals.
 
-OpenRightsGroup
-OPEN RIGHTS GROUP
+### OPEN RIGHTS GROUP
 Preserving and promoting citizen's rights in the digital age
 
-
-2016
-OPENBCI
+### OPENBCI
 Democratising neurotechnology
 
-OPENITP
+### OPENITP
 Funding the tools that stop surveillance and censorship
 
-countculture
-OPENLY LOCAL
+### OPENLY LOCAL
 Providing an open, consistent and comparative picture of UK local authority data.
 
-Mozilla
-OPENNEWS
+### OPENNEWS
 Supporting the next generation of digitally-enhanced journalists
 
-Coloured image of oil and water
-2015
-OPENOIL
+### OPENOIL
 Imagine an open oil industry
 
-A magnifying glass over a map
-2014
-OpenStreetMap Foundation
-OPENSTREETMAP
+### OPENSTREETMAP
 Co-creating a free map of the world that anyone can edit
 
-A virtual worm
-2014
-OPENWORM
+### OPENWORM
 Accelerating biological research with an open-source 'virtual organism'
 
-OurCityLove Social Enterprise
-OURCITYLOVE
+### OURCITYLOVE
 Making disabled-friendly restaurants easy to find
 
-Love Hz Ltd
-OXFORD FLOOD NETWORK
+### OXFORD FLOOD NETWORK
 Managing sensor networks to detect early signs of flooding
 
-Contributors to the Panic Button design day
-2014
-Amnesty International
-PANIC BUTTON
+### PANIC BUTTON
 Providing a hidden app for human rights activists at risk in the field.
 
-Paradox Engineering
-PE.AMI
+### PE.AMI
 Helping the delivery and management of data relating to municipal services and utilities.
 
-PHOTOFOUNDATION
+### PHOTOFOUNDATION
 Creating a free image library archive for charities.
 
-MIT Media Lab
-PLACE PULSE
+### PLACE PULSE
 Allowing an international comparison of perceptions of place.
 
-Skyscraper with clear blue sky
-PLUME LABS
+### PLUME LABS
 Urban air quality predictor app
 
-A mySociety gathering
-2014
-Ciudadano Inteligente
-POPLUS
+### POPLUS
 Prefab transparency tools
 
-Ajah
-POWEREDBYDATA
+### POWEREDBYDATA
 Helping non-profits in Canada to get more out of data
 
-Gustav Praekelt founder of the Praekelt foundation presenting on stage
-PRAEKELT FOUNDATION
+### PRAEKELT FOUNDATION
 Using mobile phones to provide services to poor and remote communities.
 
-A boy looking up towards the sky in South Sudan
-2014
-Not Impossible Labs
-PROJECT DANIEL
+### PROJECT DANIEL
 3D-printed prosthetics in the most challenging environments
 
-Open Knowledge Foundation
-PUBLIC DOMAIN REVIEW
+### PUBLIC DOMAIN REVIEW
 Bringing the 'cabinet of curiosities' concept into the digital age.
 
-None
-2013
-Public Library of Science
-PUBLIC LIBRARY OF SCIENCE
+### PUBLIC LIBRARY OF SCIENCE
 Speeds up formal, scientific communication and allows scientists to use more informal channels.
 
-RAINFOREST CONNECTION
+### RAINFOREST CONNECTION
 Re-purposing old smartphones to detect illegal logging and poaching
 
-A group of young men coding at a Randon Acts of Kindness event in Berlin in 2011
-2014
-NASA
+### NASA
 RANDOM HACKS OF KINDNESS
 Matching top-flight developers with NGOs
 
-Small computer motherboard with SD memory card for size comparison. Credit: Raspberry Pi
-2013
-Raspberry Pi Foundation
-RASPBERRY PI
+### RASPBERRY PI
 Helping children all over the world to learn computer programming.
 
-REDECENTRALIZE
+### REDECENTRALIZE
 Decentralising the net
 
 
-REFUGEE OPEN WARE (ROW)
+### REFUGEE OPEN WARE (ROW)
 Advanced technology for human rights in conflict zones
 
-Refugee Projects
-REFUGEE PROJECTS
+### REFUGEE PROJECTS
 Centralising refugee crisis initiatives
 
-RIGHT TO KNOW
+### RIGHT TO KNOW
 Simplifying the process of making and accessing Freedom of Information requests in Australia.
 
-SAFE CREATIVE
+### SAFE CREATIVE
 Providing real-time information about copyrights
 
-Woman walking alone along a street at night.
-2015
-SAFECITY
+### SAFECITY
 Empowering women to share stories of harassment
 
-SCOUTBOTS
+### SCOUTBOTS
 Developing open hardware technologies to explore and protect the ocean
 
 
-2013
-MIT Media Lab
-SCRATCH
+### SCRATCH
 Programming interactive stories, games and animations.
 
-SEECLICKFIX
+### SEECLICKFIX
 Providing a platform for citizens to report on, and governments to manage, non-emergency issues.
 
-City and County of San Francisco
-SFMTA
-Featuring a real-time parking information service and demand-responsive pricing.
-
-Smart Citizen Kit close up
-Fab Lab Bcn
-SMART CITIZEN KIT
+### SMART CITIZEN KIT
 Monitoring environmental impact by city.
 
-Igniter
-SOCIALSCAPE
+### SOCIALSCAPE
 Unearthing, mapping and connecting organisations that are delivering social good in a community.
 
-NASA
-SPACEAPPS CHALLENGE
+### SPACEAPPS CHALLENGE
 Harnessing a global network to develop open-source products for life on Earth and in space
 
-STREET JOURNAL
+### STREET JOURNAL
 Giving residents an easy way to report problems in their city.
 
-Sunlight Foundation
-2014
-Sunlight Foundation (Government Transparency), Inc.
-SUNLIGHT FOUNDATION
+### SUNLIGHT FOUNDATION
 Holding the US government to account with cutting edge technology
 
-Bangalore, where one of the Tactical Technology Collective offices is based.
-Tactical Tech
-TACTICAL TECHNOLOGY COLLECTIVE
+### TACTICAL TECHNOLOGY COLLECTIVE
 Cutting edge skills for activists in the global south
 
-University of Colorado Boulder
-TACTILE BOOKS PROJECT
+### TACTILE BOOKS PROJECT
 Using 3D printing to bring books alive for visually impaired children
 
-TALK ABOUT LOCAL
+### TALK ABOUT LOCAL
 Helping individuals to set up their own civic-minded community websites.
 
-Ashoka
-TECH4SOCIETY
+### TECH4SOCIETY
 Convening pioneers and thought leaders focused on social change through technology.
 
 
-2016
-The Urban Center for Computation and Data
-THE ARRAY OF THINGS
+### THE ARRAY OF THINGS
 Urban-scale sensor and embedded systems pilot project
 
-THE FREE NETWORK FOUNDATION
+### THE FREE NETWORK FOUNDATION
 Supporting cooperatively owned and operated communications networks
 
-None
-2013
-New York Law School
-THE OPEN AID REGISTER
+### THE OPEN AID REGISTER
 Providing a clearer view into how aid is used.
 
-THE OPEN MEDICINE PROJECT SOUTH AFRICA
+### THE OPEN MEDICINE PROJECT SOUTH AFRICA
 Supporting the adoption of technology to advance healthcare in South Africa
 
 
-2016
-AzuleJoe
-THE OPEN VOICE FACTORY
+### THE OPEN VOICE FACTORY
 Free and open voice communication aid
 
-THE THING SYSTEM
+### THE THING SYSTEM
 Getting your 'things' talking to each other with open source API
 
-THE YIELD
+### THE YIELD
 An IoT AgTech company
 
-Data visualisation map
-2015
-THINGFUL
+### THINGFUL
 The search engine for the Internet of Things
 
-
-2016
-Reut Group
-TOM (TIKKUN OLAM MAKERS)
+### TOM (TIKKUN OLAM MAKERS)
 Makers and people with disabilities develop solutions for everyday challenges
 
-A group of young people taking part in a  hack
-2014
-TRANS*H4CK
+### TRANS*H4CK
 Empowering the transgender community
 
-TRANSLATORS WITHOUT BORDERS
+### TRANSLATORS WITHOUT BORDERS
 Envisioning a world where knowledge knows no language barriers
 
-TRAVELAI
+### TRAVELAI
 Helping developers to build context-aware apps
 
 
-2016
-TUNAPANDA INSTITUTE
+### TUNAPANDA INSTITUTE
 Bridging the digital divide with free online training
 
-A person holding a mobile phone, in black and white
-2014
-Praekelt Foundation
-TXTALERT
+### TXTALERT
 Providing appointment, medication and health information to patients by text
 
-URBIOTICA
+### URBIOTICA
 Creating technologies that support more efficient, sustainable or ‘smart’ cities.
 
-VIEŠAI.LT
+### VIEŠAI.LT
 Presenting all Lithuanian government and public sector expenditure in one place.
 
 
-University of Kentucky
-VOLUME CARTOGRAPHY
+### VOLUME CARTOGRAPHY
 3D scanning technology unwraps secrets from a 2,000-year-old scroll
 
-VOTE COMPASS
+### VOTE COMPASS
 Providing an interactive electoral literacy application to increase election participation.
 
 
-2016
-WATERSCOPE
+### WATERSCOPE
 Bringing communities closer to clean water with faster and cheaper testing kits
 
-WEVOLVER
+### WEVOLVER
 Opening up open hardware for all
 
-A wheelchair user coming out of a building down a ramp
-2014
-Sozialhelden
-WHEELMAP
+### WHEELMAP
 Mapping places for wheelchair users
 
-A WikiHouse under construction
-2014
-WikiHouse Foundation
-WIKIHOUSE
+### WIKIHOUSE
 An open source construction system
 
-None
-2013
-WIKILEAKS
+### WIKILEAKS
 Gathers sensitive information at scale and protects its sources.
 
-United for Wildlife
-WILDLABS.NET
+### WILDLABS.NET
 Technology-enabled solutions to pressing biodiversity conservation challenges
 
-WILDLIFE CRIME TECHNOLOGY PROJECT  
+### WILDLIFE CRIME TECHNOLOGY PROJECT  
 Using technology to fight wildlife crime  
 
-YOUNG REWIRED STATE
+### YOUNG REWIRED STATE
 A global network of young programmers.  
 
-YOUR PRIORITIES
+### YOUR PRIORITIES
 Pursuing collaborative democracy online  
 
-ZOONIVERSE
+### ZOONIVERSE
 Enlists volunteers to pursue scientific research.
